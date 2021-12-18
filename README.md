@@ -1,0 +1,1 @@
+Just initilized the git directory.
