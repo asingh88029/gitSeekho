@@ -1,1 +1,1 @@
-Just initilized the git directory.
+Just initilized the git directory. Head is shift to swati brach
